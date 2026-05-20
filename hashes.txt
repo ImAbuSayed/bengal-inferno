@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Bengal Inferno
+
+This log tracks the cryptographic history and versioning for the song **Bengal Inferno** (bengal-inferno).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-20T20:41:53.349020 | `v1` | `f12f7994e2338c00dd0873c78aede61cfbaba50bc3db5048fa5c783bf1c6eead` | `1a2058ea794b4eb4dc691043871aa250be923550f0b70b550bb62f4f9c469098` | `2026-05-20_bengal-inferno-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

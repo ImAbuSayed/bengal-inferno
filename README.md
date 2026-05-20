@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bengal-inferno/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bengal Inferno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bengal-inferno/) |
+| **Get License** | [Get a Licensing Quote for Bengal Inferno](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bengal-inferno/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `f12f7994e2338c00dd0873c78aede61cfbaba50bc3db5048fa5c783bf1c6eead` |
 | **Timestamp** | May 20, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
