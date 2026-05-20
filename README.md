@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> তেরে ইশক দা চড়হিয়া নশা so high
+> ম্যায় তুরদা হনেরে ভিচ্চ late night
+> দিল মেরা লব্ভদা এ তেরি pure vibe
+> তেরি ইক্ক ঝলক লয়ী I survive
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
